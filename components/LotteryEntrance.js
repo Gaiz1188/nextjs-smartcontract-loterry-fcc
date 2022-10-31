@@ -118,6 +118,7 @@ export default function LotteryEntrance() {
                     </div>
                     <div>Number Of players : {numPlayer}</div>
                     <div>Recent Winner : {recentWinner}</div>
+                    <div>! Lottery !</div>
                     <button
                         className="w-full py-2 px-4 round text-white font-bold bg-blue-500 hover:bg-green-700  "
                         onClick={async function () {
